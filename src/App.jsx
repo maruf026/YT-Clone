@@ -7,8 +7,8 @@ import videos from "./data/videos";
 
 class App extends Component {
   render() {
-    const mainVideo = videos[0]; // hardcoded played video
-    const suggestions = videos.slice(1); // rest as suggestions
+    const mainVideo = videos[0]; 
+    const suggestions = videos.slice(1); 
 
     return (
       <div className="bg-gray-100 min-h-screen">

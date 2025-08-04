@@ -1,6 +1,7 @@
 {
   "name": "react-practice-project",
   "private": true,
+  "homepage": "https://maruf026.github.io/YT-Clone/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
