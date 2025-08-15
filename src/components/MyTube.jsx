@@ -30,7 +30,7 @@ export default function MyTube() {
 
   return (
     <div className="bg-[#f9f9f9] min-h-screen">
-   
+      {/* Header */}
       <header className="bg-white flex items-center justify-between px-4 py-2 shadow-sm sticky top-0 z-50">
         <div className="flex items-center space-x-2">
           <img
@@ -56,8 +56,7 @@ export default function MyTube() {
           </button>
         </div>
         <div className="flex space-x-4 items-center">
-          <span className="cursor-pointer">📹</span>
-          <span className="cursor-pointer">🔔</span>
+         
           <span className="cursor-pointer">👤</span>
         </div>
       </header>
