@@ -1,10 +1,10 @@
-import React from 'react'
-import MyTube from './components/MyTube'
+import MyTube from "./components/MyTube"
+
 
 function App() {
   return (
     <div>
-      <MyTube/>
+    <MyTube/>
     </div>
   )
 }
